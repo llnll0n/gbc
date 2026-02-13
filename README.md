@@ -5,4 +5,6 @@
 - [comp1238.md](comp1238.md)
 
 * **Monday**
-    * 13:00 - [COMP1238 - Data Mgmnt]
+   * 13:00 - [COMP1238 - Data Mgmnt](https://learn.georgebrown.ca/d2l/home/452067)
+* **Thursday**
+   * 10:00 - [COMP1238 - Data Mgmnt](https://learn.georgebrown.ca/d2l/home/452067)
